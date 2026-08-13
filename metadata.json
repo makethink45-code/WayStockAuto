@@ -1,6 +1,0 @@
-{
-  "name": "WayStock Master",
-  "description": "Digital inventory and stock management app with hierarchical tree, bucket system, voice assistant, order slip generation, and admin tools.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
